@@ -1,0 +1,12 @@
+# Não publicar dados de policiais, escalas ou backups
+*.csv
+*.pdf
+*.xlsx
+*.xls
+*.sqlite
+*.sqlite3
+*.db
+*DADOS*ANDROID*.json
+*BACKUP*.json
+.env
+.env.*
